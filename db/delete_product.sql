@@ -1,0 +1,1 @@
+delete from procuct where product_id = $1;
